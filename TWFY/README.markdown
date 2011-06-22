@@ -5,9 +5,9 @@ iPhone client for TheyWorkForYou.com
 ===================================================
 
 ### Version         :   0.1
-### Branch          :   master
-### Branched from   :   n/a
-### Merged from     :   develop
+### Branch          :   develop
+### Branched from   :   master
+### Merged from     :   
 ### Date            :   22/06/2011
 
 ===================================================
